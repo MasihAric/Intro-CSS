@@ -1,17 +1,7 @@
-WATS 3010: Basic CSS Project
-============
-
-This is the source repository for WATS3010: Introduction to Web Development
-Basic CSS assignment. This assignment is designed to help you practice your
-use of common CSS properties and patterns.
-
-Please refer to the resources page within the course for additional information
-about how to complete the assignment and resources about CSS.
-
 Basic Requirements
 ------------
 
-To complete this assignment, you must write styles to create an elegant visual
+Created an elegant visual
 presentation for the poem "Kubla Khan" by Samuel Taylor Coleridge. Your goal
 is to create an elegant and appealing presentation for the information contained
 in the `index.html` file. (Please note: You do not need to edit the HTML file to
